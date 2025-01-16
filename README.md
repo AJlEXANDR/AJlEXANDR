@@ -13,4 +13,4 @@ I am Alexander, a passionate developer with experience in Data-Science and ML-en
 ### 🎯 Projects
 
 - **Financial-University:** my projects during my bachelor studies at the Financial University [https://github.com/AJlEXANDR/Financial-University]
-- **HSE:** my projects during my master studies at the Higher School of Economics [https://github.com/AJlEXANDR/Financial-University]
+- **HSE:** my projects during my master studies at the Higher School of Economics [https://github.com/AJlEXANDR/HSE]
